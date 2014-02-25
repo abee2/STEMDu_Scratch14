@@ -1,0 +1,1 @@
+'From MIT Squeak 0.9.4 (June 1, 2003) [latest update: #20] on 24 December 2013 at 1:36:03 am'!!SensorBoardMorph methodsFor: 'serial port'!portNames	ScratchPlugin serialPortOpsAvailable ifFalse: [^ (1 to: 32)			collect: [:t1 | 'COM' , t1 printString]].	^ SerialPort2 portNames reject: [:t2 | t2 asLowercase includesSubString: 'pda-sync']! !
