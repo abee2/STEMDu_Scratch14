@@ -3,6 +3,17 @@ STEMDu_Scratch14
 
 Changeset for Scratch 1.4 to adopt STEM Du board as Scratch Board
 
+You can also download pre-patched package. You can easily start only by downlad and unzip.
+
+Windows
+* http://www.stem-edulab.org/uploads/WinScratch1.4-stemdu01.zip 
+
+MacOSX
+* http://www.stem-edulab.org/uploads/Scratch_14_for_STEM_Du_01.zip 
+
+Contributors
+-------------
+Thank you to Kazuhiro Abe (abee) for helping to make changeset for original Scratch 1.4 to adoput USB CDC serial port and improving 2 motors support.
 
 Related works
 -------------
