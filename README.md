@@ -11,6 +11,12 @@ Windows
 MacOSX
 * http://www.stem-edulab.org/uploads/Scratch_14_for_STEM_Du_01.zip 
 
+Licenses
+--------
+*Original files of Scratch 1.4 from MIT Media lab in under same license.
+*Additional files to Scratch 1.4 is under Sceatch Source Code license and GPL2.0
+*Additional files related to ScratchBoard is under same license as MIT ScratchBoard license.
+
 Contributors
 -------------
 Thank you to Kazuhiro Abe (abee) for helping to make changeset for original Scratch 1.4 to adoput USB CDC serial port and improving 2 motors support.
