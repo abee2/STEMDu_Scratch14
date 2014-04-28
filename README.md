@@ -13,9 +13,9 @@ MacOSX
 
 Licenses
 --------
-*Original files of Scratch 1.4 from MIT Media lab in under same license.
-*Additional files to Scratch 1.4 is under Sceatch Source Code license and GPL2.0
-*Additional files related to ScratchBoard is under same license as MIT ScratchBoard license.
+* Original files of Scratch 1.4 from MIT Media lab in under same license.
+* Additional files to Scratch 1.4 is under Sceatch Source Code license and GPL2.0
+* Additional files related to ScratchBoard is under same license as MIT ScratchBoard license.
 
 Contributors
 -------------
