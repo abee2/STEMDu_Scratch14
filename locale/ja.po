@@ -3,15 +3,13 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-05-02\n"
-"PO-Revision-Date: 2013-01-07 11:29+0200\n"
-"Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
+"PO-Revision-Date: 2010-08-10 12:53-0500\n"
+"Last-Translator: Kazuhiro Abe <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 1.1.0rc2\n"
 
 ############################################
 # FORMATTING
@@ -19,7 +17,7 @@ msgstr ""
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
-msgstr "日本語"
+msgstr "日本語(複数モーター)"
 
 # Directionality of language
 # LTR = Left to Right
@@ -39,15 +37,30 @@ msgstr "false"
 
 # Font to use on a Windows system
 msgid "Win-Font"
-msgstr "MS PGothic"
+msgstr ""
 
 # Font to use on a Mac system
 msgid "Mac-Font"
-msgstr "times"
+msgstr ""
 
 # Font to use on a Linux system
 msgid "Linux-Font"
-msgstr "Sazanami Gothic"
+msgstr ""
+
+############################################
+# WORLD STETHOSCOPE
+############################################
+msgid "sound input on"
+msgstr "音声入力オン"
+
+msgid "sound input off"
+msgstr "音声入力オフ"
+
+msgid "sound input frequency"
+msgstr "音声入力周波数"
+
+msgid "sound input level"
+msgstr "音声入力レベル"
 
 ############################################
 # BLOCKS
@@ -71,7 +84,7 @@ msgid "%f of %n"
 msgstr "%n の %f"
 
 msgid "%n mod %n"
-msgstr "%n を %n で割った余り"
+msgstr "%n2 を %n1 で割った余り"
 
 msgid "add %s to %L"
 msgstr "%s を %L に追加する"
@@ -188,7 +201,7 @@ msgid "item %i of %L"
 msgstr "%L の %i 番目"
 
 msgid "join %s %s"
-msgstr "%s と %s"
+msgstr "%s と %s をつなぐ"
 
 msgid "key %k pressed?"
 msgstr "%k キーが押された"
@@ -217,20 +230,20 @@ msgstr "音量"
 msgid "motion"
 msgstr "動き"
 
-msgid "motor direction %W"
-msgstr "モーターの回転を %W にする"
+msgid "motor %M direction %W"
+msgstr "モーター %M の回転を %W にする"
 
-msgid "motor off"
-msgstr "モーターをオフにする"
+msgid "motor %M off"
+msgstr "モーター %M をオフにする"
 
-msgid "motor on"
-msgstr "モーターをオンにする"
+msgid "motor %M on"
+msgstr "モーター %M をオンにする"
 
-msgid "motor on for %n secs"
-msgstr "モーターを %n 秒オンにする"
+msgid "motor %M on for %n secs"
+msgstr "モーター %M を %n 秒オンにする"
 
-msgid "motor power %n"
-msgstr "モーターのパワーを %n にする"
+msgid "motor %M power %n"
+msgstr "モーター %M のパワーを %n にする"
 
 msgid "mouse down?"
 msgstr "マウスが押された"
@@ -1640,10 +1653,10 @@ msgid "Lead 8 (bass+lead)"
 msgstr "リード 8 (ベースとリード)"
 
 msgid "Long Guiro"
-msgstr "ロングギロ"
+msgstr "長いギロ"
 
 msgid "Long Whistle"
-msgstr "ロングホイッスル"
+msgstr "長いホイッスル"
 
 msgid "Low Agogo"
 msgstr "ローアゴーゴー"
@@ -1682,7 +1695,7 @@ msgid "Music Box"
 msgstr "ミュージックボックス"
 
 msgid "Mute Cuica"
-msgstr "ミュートクイーカ"
+msgstr "ミュートクィーカ"
 
 msgid "Mute Hi Conga"
 msgstr "ミュートハイコンガ"
@@ -1694,7 +1707,7 @@ msgid "Muted Trumpet"
 msgstr "ミュートトランペット"
 
 msgid "Nylon String Guitar"
-msgstr "ナイロン弦ギター"
+msgstr "ナイロン糸ギター"
 
 msgid "Oboe"
 msgstr "オーボエ"
@@ -1703,7 +1716,7 @@ msgid "Ocarina"
 msgstr "オカリナ"
 
 msgid "Open Cuica"
-msgstr "オープンクイーカ"
+msgstr "オープンクィーカ"
 
 msgid "Open Hi Conga"
 msgstr "オープンハイコンガ"
@@ -1796,10 +1809,10 @@ msgid "Shanai"
 msgstr "シャナイ"
 
 msgid "Short Guiro"
-msgstr "ショートギロ"
+msgstr "短いギロ"
 
 msgid "Short Whistle"
-msgstr "ショートホイッスル"
+msgstr "短いホイッスル"
 
 msgid "Side Stick"
 msgstr "サイドスティック"
@@ -1914,3 +1927,4 @@ msgstr "ウッドブロック"
 
 msgid "Xylophone"
 msgstr "シロホン"
+
